@@ -1,0 +1,1 @@
+# swaglabs-cypress-automation
